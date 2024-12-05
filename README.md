@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi! I'm Syam, pleased to meet you! 👋
 
+## 🌱 I'm currently a Computer Science student at Bina Nusantara University, Malang.
 <!--
 **SyamMachdita/SyamMachdita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
