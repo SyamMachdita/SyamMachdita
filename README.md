@@ -1,6 +1,7 @@
 ## Hi! I'm Syam, pleased to meet you! 👋
 
 ## 🌱 I'm currently a Computer Science student at Bina Nusantara University, Malang.
+## 🔭 I’m currently working on PT Telkomsel
 <!--
 **SyamMachdita/SyamMachdita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
